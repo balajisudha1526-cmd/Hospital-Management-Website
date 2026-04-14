@@ -31,7 +31,7 @@ project-folder/
 
 ---
 🌐 Live Demo
-
+ https://balajisudha1526-cmd.github.io/Hospital-Management-Website/
 
 ## 📸 Project Screenshots
 
